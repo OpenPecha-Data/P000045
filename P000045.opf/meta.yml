@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000045
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དིང་རི་བ་ཆེན་པོ་འཆི་མེད་བློ་གྲོས་བརྟན་པའི་རྣམ་ཐར་ཡོན་ཏན་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། སྨིན་གླིང་ལོ་ཆེན་དྷརྨ་ཤྲཱི།
-  sku: LS-ZHI-05-02
   layers:
   - book_title
   - author
   - chapter_title
+  id: LS-ZHI-05-02
 web_metadata:
   title:
     en: The Light of Good Qualities:A Biography of Chime Lodro Tenpa, the Great Master
